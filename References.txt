@@ -1,0 +1,9 @@
+List of references:
+
+- https://cdn.rawgit.com/Zhenmao/udacity-dand-p4-explore-and-summarize-data/2e0a8fb2/udacity_dand-p4-explore-and-summarize-data.html
+- https://ropensci.github.io/plotly/ggplot2/scale_brewer.html
+- https://github.com/clcl24/Explore-and-Summarize-Data/blob/master/wineQualityReds.pdf
+- https://github.com/clcl24/Explore-and-Summarize-Data/blob/master/wineQualityReds.pdf
+- https://baocongchen.github.io/Explore-and-Summarize-Data/
+- https://stackoverflow.com/questions/51184569/how-to-convert-factor-levels-to-integer-in-r
+- https://csgillespie.github.io/efficientR/dplyr.html
